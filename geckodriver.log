@@ -1,0 +1,117 @@
+1517024346686	geckodriver	INFO	geckodriver 0.19.1
+1517024346697	geckodriver	INFO	Listening on 127.0.0.1:36463
+1517024347919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Uh0DLB7RVHxe"
+1517024349242	Marionette	INFO	Enabled via --marionette
+1517024354132	Marionette	INFO	Listening on port 40925
+1517024354238	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517025110173	geckodriver	INFO	geckodriver 0.19.1
+1517025110186	geckodriver	INFO	Listening on 127.0.0.1:34669
+1517025110486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9kWbEaolk9gT"
+1517025112330	Marionette	INFO	Enabled via --marionette
+1517025117966	Marionette	INFO	Listening on port 33173
+1517025118084	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517025214162	geckodriver	INFO	geckodriver 0.19.1
+1517025214170	geckodriver	INFO	Listening on 127.0.0.1:48501
+1517025215352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cZGsXBaA4BtC"
+1517025216943	Marionette	INFO	Enabled via --marionette
+1517025221776	Marionette	INFO	Listening on port 45045
+1517025221907	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517025310435	geckodriver	INFO	geckodriver 0.19.1
+1517025310445	geckodriver	INFO	Listening on 127.0.0.1:36217
+1517025311103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.b3lD73KO1tQW"
+1517025313198	Marionette	INFO	Enabled via --marionette
+1517025320756	Marionette	INFO	Listening on port 41073
+1517025320973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517025448043	geckodriver	INFO	geckodriver 0.19.1
+1517025448048	geckodriver	INFO	Listening on 127.0.0.1:58723
+1517025449392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jzc3VJtBM5Mh"
+1517025451481	Marionette	INFO	Enabled via --marionette
+1517025459606	Marionette	INFO	Listening on port 43371
+1517025460378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517025719081	geckodriver	INFO	geckodriver 0.19.1
+1517025719089	geckodriver	INFO	Listening on 127.0.0.1:40245
+1517025719854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jwCyX6FXPbDY"
+1517025729462	Marionette	INFO	Enabled via --marionette
+1517025742755	Marionette	INFO	Listening on port 40879
+1517025744609	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517025776079	geckodriver	INFO	geckodriver 0.19.1
+1517025776115	geckodriver	INFO	Listening on 127.0.0.1:41451
+1517025776717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IWDtOKQQlG7m"
+1517025785687	Marionette	INFO	Enabled via --marionette
+1517025797911	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js :: shutdown :: line 200"  data: no] Stack trace: shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:200 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4406 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2270
+JavaScript error: resource://shield-recipe-client/lib/ShieldRecipeClient.jsm, line 70: TypeError: log is undefined
+1517025800970	Marionette	INFO	Listening on port 39607
+1517025801182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517026115937	geckodriver	INFO	geckodriver 0.19.1
+1517026115946	geckodriver	INFO	Listening on 127.0.0.1:43867
+1517026117418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nVenp4VDnGZX"
+1517026122539	Marionette	INFO	Enabled via --marionette
+1517026132232	Marionette	INFO	Listening on port 41391
+1517026132516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517026136977	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:278 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4406 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2270
+[Child 18148, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=<unknown IPC msg name>) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00CC,name=PContent::Msg_BackUpXResources) Channel error: cannot send/recv
+
+[Child 18148, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFFB,name=SHMEM_CREATED_MESSAGE) Channel error: cannot send/recv
+
+[Child 18148, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0073,name=PContent::Msg_InitCrashReporter) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C007D,name=PContent::Msg_PPrintingConstructor) Channel error: cannot send/recv
+
+IPDL protocol error: constructor for actor failed
+1517026532100	geckodriver	INFO	geckodriver 0.19.1
+1517026532114	geckodriver	INFO	Listening on 127.0.0.1:60589
+1517026533823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iE2uYaKx8Msg"
+1517026538442	Marionette	INFO	Enabled via --marionette
+1517026553384	Marionette	INFO	Listening on port 42219
+1517026553983	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517026793236	geckodriver	INFO	geckodriver 0.19.1
+1517026793253	geckodriver	INFO	Listening on 127.0.0.1:57359
+1517026793845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fB5oX4nyf14b"
+1517026803176	Marionette	INFO	Enabled via --marionette
+1517026812815	Marionette	INFO	Listening on port 33477
+1517026813688	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18497, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18461, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517026977570	geckodriver	INFO	geckodriver 0.19.1
+1517026977576	geckodriver	INFO	Listening on 127.0.0.1:59879
+1517026978784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.F3rTEkrGf2e4"
+1517026982146	Marionette	INFO	Enabled via --marionette
+1517026987673	Marionette	INFO	Listening on port 36085
+1517026988375	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18685, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18641, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517039943778	geckodriver	INFO	geckodriver 0.19.1
+1517039943815	geckodriver	INFO	Listening on 127.0.0.1:56395
+1517039945178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IgnBkvUQ8vuH"
+1517039955268	Marionette	INFO	Enabled via --marionette
+1517039964365	Marionette	INFO	Listening on port 43161
+1517039964479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517040077815	geckodriver	INFO	geckodriver 0.19.1
+1517040077821	geckodriver	INFO	Listening on 127.0.0.1:36437
+1517040079280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JdagxMwhcgv9"
+1517040082054	Marionette	INFO	Enabled via --marionette
+1517040088042	Marionette	INFO	Listening on port 45729
+1517040088216	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20325, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20281, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
