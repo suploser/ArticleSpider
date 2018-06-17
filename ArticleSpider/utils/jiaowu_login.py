@@ -84,7 +84,7 @@ def jiaowu_login(stu_id, password):
 # get_sessionId()
 
 
-jiaowu_login('2014121829','1996qx')
+jiaowu_login('2014121829','******')
 # with open('cookie.json','r') as f:
 #     cookies = json.load(f)
 # get_index(cookies)
