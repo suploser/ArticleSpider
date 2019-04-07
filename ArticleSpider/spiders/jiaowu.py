@@ -4,8 +4,8 @@ import scrapy
 
 class JiaowuSpider(scrapy.Spider):
     name = 'jiaowu'
-    allowed_domains = ['jiaowu.em.swjtu.edu.cn']
-    start_urls = ['http://jiaowu.em.swjtu.edu.cn/usersys/index.jsp']
+    allowed_domains = ['']
+    start_urls = ['']
     agent = 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0'
     headers = {
     'Host': 'jiaowu.em.swjtu.edu.cn',
@@ -19,15 +19,15 @@ class JiaowuSpider(scrapy.Spider):
         print(response.text)
         pass
 
-    # yield scrapy.Request('http://jiaowu.em.swjtu.edu.cn/service/login.jsp?user_type=student', headers=self.headers)
+    # yield scrapy.Request('', headers=self.headers)
     def start_requests(self):
-        captcha_url = 'http://jiaowu.em.swjtu.edu.cn/servlet/GetRandomNumberToJPEG'
+        captcha_url = ''
         post_data = {
-            'url': 'http://jiaowu.em.swjtu.edu.cn/servlet/UserLoginCheckInfoAction',
+            'url': '',
             'OperatingSystem': '',
             'Browser': '',
-            'user_id': '2014121829',
-            'password': '1996qx',
+            'user_id': '',
+            'password': '',
             'ranstring': '',
             'user_type': 'student',
             'btn1': ''
